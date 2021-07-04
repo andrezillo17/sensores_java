@@ -11,4 +11,5 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_gps">GPS</string>
+    <string name="menu_battery">Batería</string>
 </resources>
