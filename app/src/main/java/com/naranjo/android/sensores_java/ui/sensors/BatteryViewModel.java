@@ -10,8 +10,6 @@ import androidx.lifecycle.ViewModel;
 import com.naranjo.android.sensores_java.databinding.FragmentBatteryBinding;
 
 public class BatteryViewModel extends ViewModel {
-
-    private FragmentBatteryBinding binding;
     private BatteryFragment fragment;
 
     public void setFragment(BatteryFragment fragment) {

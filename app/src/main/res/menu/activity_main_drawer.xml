@@ -24,5 +24,9 @@
             android:id="@+id/nav_battery"
             android:icon="@drawable/ic_menu_battery"
             android:title="@string/menu_battery" />
+        <item
+            android:id="@+id/nav_biometric"
+            android:icon="@drawable/ic_menu_biometric"
+            android:title="@string/menu_biometric" />
     </group>
 </menu>

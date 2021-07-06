@@ -33,4 +33,9 @@
         android:name="com.naranjo.android.sensores_java.ui.sensors.BatteryFragment"
         android:label="@string/menu_battery"
         tools:layout="@layout/fragment_battery" />
+    <fragment
+        android:id="@+id/nav_biometric"
+        android:name="com.naranjo.android.sensores_java.ui.sensors.BiometricFragment"
+        android:label="@string/menu_biometric"
+        tools:layout="@layout/fragment_biometric" />
 </navigation>
