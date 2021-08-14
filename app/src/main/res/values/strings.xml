@@ -13,4 +13,5 @@
     <string name="menu_gps">GPS</string>
     <string name="menu_battery">Batería</string>
     <string name="menu_biometric">Biometría</string>
+    <string name="menu_light">Luz</string>
 </resources>

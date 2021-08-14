@@ -28,5 +28,9 @@
             android:id="@+id/nav_biometric"
             android:icon="@drawable/ic_menu_biometric"
             android:title="@string/menu_biometric" />
+        <item
+            android:id="@+id/nav_light"
+            android:icon="@drawable/ic_menu_biometric"
+            android:title="@string/menu_light" />
     </group>
 </menu>
